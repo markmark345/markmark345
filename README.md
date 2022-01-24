@@ -1,8 +1,8 @@
-###  Hi I'm Mark👋
+##  Hi I'm Mark👋
 
 <br/>  
 
-### Connect with me  
+## Connect with me  
 <div align="left">
   <a href="https://www.linkedin.com/in/natapatchara-anuroje-6956b7223/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
@@ -12,7 +12,7 @@
   </a>  
 </div>  
 
-### Languages and Tools  
+## Languages and Tools  
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -49,7 +49,7 @@
 </div>  
 
 
-### Github Stats
+## Github Stats
 <div align="center">
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight"/>
   <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=markmark345&theme=tokyonight"/>
