@@ -42,8 +42,6 @@
   <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="25" />  
 </div>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=markmark345&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## ⚡ Github Stats
 <div align="center">
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight"/>
