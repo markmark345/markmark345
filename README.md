@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I love to play guitar 🎸 and sleep 😴
 - 💬 Ask me about anything
 
+<br/>
+
 ## 🎯 Languages and Tools  
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -42,12 +44,16 @@
   <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="25" />  
 </div>  
 
+<br/>
+
 ## ⚡ Github Stats
 <div align="center">
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight"/>
   <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=markmark345&theme=tokyonight"/>
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmark345&layout=compact&theme=tokyonight"/>
 </div>
+
+<br/>
 
 ## 📫 Reach me on
 <div align="left">
