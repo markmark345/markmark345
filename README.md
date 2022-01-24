@@ -1,8 +1,11 @@
 ##  Hi I'm Mark👋
 
-<br/>  
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on everyone
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play guitar 🎸 and sleep 😴
+- 💬 Ask me about anything
 
-## Connect with me  
 <div align="left">
   <a href="https://www.linkedin.com/in/natapatchara-anuroje-6956b7223/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
@@ -10,9 +13,11 @@
   <a href="https://instagram.com/markntpc" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
   </a>  
-</div>  
+</div> 
 
-## Languages and Tools  
+<br/>  
+ 
+## 🎯 Languages and Tools  
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -49,7 +54,7 @@
 </div>  
 
 
-## Github Stats
+## ⚡ Github Stats
 <div align="center">
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight"/>
   <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=markmark345&theme=tokyonight"/>
