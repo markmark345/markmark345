@@ -64,7 +64,3 @@
   </a>  
 </div> 
 
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=markmark345&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
-</p> 
-
