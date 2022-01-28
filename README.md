@@ -32,5 +32,7 @@
   <a href="https://instagram.com/markntpc" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
   </a>  
+  <a href="https://auth.geeksforgeeks.org/user/natapatcharaanuroje" target="_blank">
+    <img src=	https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white alt="geeksforgeeks" />
 </div> 
 
