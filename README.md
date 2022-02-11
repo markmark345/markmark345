@@ -20,7 +20,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight"/>
 <!--   <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=markmark345&theme=tokyonight"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmark345&layout=compact&theme=tokyonight&langs_count=10"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=markmark345&theme=algolia&row=2&column=3"/>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=markmark345&theme=algolia"/>
+  </div>
+  
 </div>
 
 <br/>
