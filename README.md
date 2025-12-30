@@ -10,22 +10,23 @@
 <br/>
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight"/>
-<!--   <img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=markmark345&theme=tokyonight"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmark345&layout=compact&theme=tokyonight&langs_count=10"/>
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=markmark345&theme=algolia&column=8"/> -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmark345&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=86400" />
 </div>
+
 
 ## 📫 Reach me on
 <div align="left">
   <a href="https://www.linkedin.com/in/natapatchara-anuroje-6956b7223/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://instagram.com/markntpc" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram/>
-  </a>  
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
   <a href="https://auth.geeksforgeeks.org/user/natapatcharaanuroje" target="_blank">
-    <img src=	https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white alt="geeksforgeeks" />
-</div> 
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" />
+  </a>
+</div>
 
