@@ -10,7 +10,6 @@
 <br/>
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=markmark345&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmark345&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=86400" />
